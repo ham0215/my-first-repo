@@ -17,5 +17,5 @@ GitやGitHubの様々な操作を試すために自由に使う
 ## 学習履歴
 
 - リポジトリを作成してcloneを実施
-- commitを実施
+- commiiiiiitを実施
   - AIにcommitメッセージを生成してもらう
